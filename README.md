@@ -1,7 +1,7 @@
 
-# pow-demo
+## pow-demo
 
-A tiny blockchain demo with pow consensus algorithm
+A tiny blockchain demo with pow consensus algorithm.
 
 ```bash
 sudo git clone https://github.com/KangfeiHK/pow-demo.git
@@ -10,5 +10,6 @@ make
 ./chain
 ```
 
-Note：openssl is needed.
+![](Sample.png)
 
+Note：openssl is needed.
